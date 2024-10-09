@@ -2,10 +2,10 @@ main()
 {
 add()
 {
-PRINTF("ADDITION")
+PRINTF("ADDITION");
 }
-add()
-sub()
-mul()
-div()
+add();
+sub();
+mul();
+div();
 }
